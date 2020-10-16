@@ -103,5 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-#other
+#send the folder but not the images
 upload/*
+!upload/.gitkeep 
